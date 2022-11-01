@@ -1,3 +1,3 @@
-module github.com/AaronFei/Aes
+module github.com/AaronFei/aes
 
 go 1.19
